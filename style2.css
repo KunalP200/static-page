@@ -1,0 +1,67 @@
+#register{
+    
+    
+    
+    font-size: 30px;
+    margin-left: 200px;
+    color: chocolate;
+    border-color: black;
+    border: 4px solid black;
+    border-radius: 20px;
+    background-color: bisque;
+
+    
+}
+
+
+
+a{
+    text-align: center;
+    height: 100px;
+    size: 100px;
+}
+#home{
+    height: 150px;
+    border-left: 100px;
+    background-color: blueviolet;
+    background-image: url("https://thumbs.dreamstime.com/b/robot-ai-technology-background-high-quality-illustration-ai-generated-robot-ai-technology-background-305358523.jpg");
+    
+}
+#page{
+  margin: 70px;
+  font-size: 30px;
+  color: chocolate;
+  
+
+
+}
+#detail{
+    margin-left: 150px;
+    font-size: 30px;
+    color: chocolate;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#profile{
+    font-size: 30px;
+    color: chocolate;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 50px;
+}
+
+#login{
+  
+    font-size: 30px;
+    border-color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: 250px;
+    color: chocolate;
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: bisque;
+
+    
+}
+#image{
+    height: 900px;
+    width: 1450px;
+}
